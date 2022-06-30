@@ -1,4 +1,4 @@
-#app ad
+#app ads
 
 #meta
 
